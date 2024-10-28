@@ -78,7 +78,7 @@ return [
 
     // Webhooks
     'webhook_create' => 'created webhook',
-    'webhook_create_notification' => 'Webhook נוצר בהצלחה',
+    'webhook_create_notification' => 'יצירת Webhook בוצעה בהצלחה',
     'webhook_update' => 'updated webhook',
     'webhook_update_notification' => 'Webhook successfully updated',
     'webhook_delete' => 'deleted webhook',
